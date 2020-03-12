@@ -11,15 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# CHRIS WONDER
+## Am A Web Tech Entrepreneur And Media Content Creator
+### My Word Is My Bond, My Clients, Integrity And Reputation Always Comes First.
 
-- Bulleted
-- List
+- SERVICES I OFFER
+- Online Marketing
+- Web Development
+- GMB listing
+- UI Designer
+- IT Related Solutions
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
